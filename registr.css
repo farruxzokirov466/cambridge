@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",
+	Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.icon{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 90px;
+}
+.testpic{
+	width: 115px;
+}
+.welcome{
+	margin-top: 0px;
+	    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.75rem;
+    margin-bottom: 15px;
+}
+
